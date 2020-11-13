@@ -1,0 +1,12 @@
+{
+  "base_url": "/swirrl/jupyter/f3412242-d46c-49d3-83e0-eb2aaa8e1457/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 631,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://0.0.0.0:8888/swirrl/jupyter/f3412242-d46c-49d3-83e0-eb2aaa8e1457/"
+}
